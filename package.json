@@ -4,8 +4,8 @@
   "description": "It is a library administration project",
   "main": "server.js",
   "scripts": {
-   "start" : "NODE_ENV=production node server",
-   "dev": "nodemon server"
+    "start": "NODE_ENV=production node server",
+    "dev": "nodemon server"
   },
   "author": "Juan Ignacio Rios",
   "license": "ISC",
